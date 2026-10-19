@@ -100,6 +100,12 @@ http://localhost:8501
 
 This will show a form where you can fill in the store, product, date, pricing, and category values and view the predicted demand result.
 
+## Screenshot
+
+The frontend prediction screen looks like this:
+
+![Retail Store Demand Forecasting screen](./screenshot.png)
+
 ## Testing
 
 Run the test suite with:
